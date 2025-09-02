@@ -1,2 +1,2 @@
 # detective
-Copyright Detector
+I'm your Copyright Detector
