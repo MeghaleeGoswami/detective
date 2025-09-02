@@ -1,0 +1,2 @@
+# detective
+Copyright Detector
