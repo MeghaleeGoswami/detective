@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.96dfab86.css",
-    "main.js": "/static/js/main.925a1d2a.js",
-    "index.html": "/index.html",
-    "main.96dfab86.css.map": "/static/css/main.96dfab86.css.map",
-    "main.925a1d2a.js.map": "/static/js/main.925a1d2a.js.map"
+    "main.css": "/detective/static/css/main.96dfab86.css",
+    "main.js": "/detective/static/js/main.925a1d2a.js",
+    "index.html": "/detective/index.html",
+    "main.96dfab86.css.map": "/detective/static/css/main.96dfab86.css.map",
+    "main.925a1d2a.js.map": "/detective/static/js/main.925a1d2a.js.map"
   },
   "entrypoints": [
     "static/css/main.96dfab86.css",
